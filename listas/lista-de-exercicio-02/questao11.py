@@ -1,0 +1,9 @@
+num1=int(input())
+num2=int(input())
+num3=int(input())
+produto=(num1*2)*(num2/2)
+soma=(num1*3)+num3
+potencia=num3**3
+print(produto)
+print(soma)
+print(potencia)
